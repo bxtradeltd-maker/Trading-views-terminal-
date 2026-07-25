@@ -1,0 +1,2 @@
+# API connection (no secrets — the dashboard talks only to the backend API)
+VITE_API_BASE_URL=http://localhost:3000/api/v1
